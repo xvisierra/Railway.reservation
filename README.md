@@ -1,2 +1,2 @@
-# railway_fs
+# Railway Reservation System Using Hashing
 Railway Reservation System using Hashing
